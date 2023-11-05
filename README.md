@@ -18,9 +18,9 @@ While extracting text, please make sure your program extracts only the article t
 For each of the extracted texts from the article, perform textual analysis and compute variables, given in the output structure excel file. You need to save the output in the exact order as given in the output structure file, “Output Data Structure.xlsx”
 NOTE: YOU MUST USE PYTHON PROGRAMMING FOR THE DATA ANALYSIS
 
-
+```
 #Variables
-'''
+
 #POSITIVE SCORE
 
 #NEGATIVE SCORE
@@ -35,8 +35,9 @@ NOTE: YOU MUST USE PYTHON PROGRAMMING FOR THE DATA ANALYSIS
 #SYLLABLE PER WORD
 #PERSONAL PRONOUNS
 #AVG WORD LENGTH
-```
-```
+
+
+
 #Output Variables: 
 All input variables in “Input.xlsx”
 #POSITIVE SCORE
